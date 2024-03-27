@@ -4,6 +4,10 @@
 
 [My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
+## Section 6: React Hooks and Advanced Topics
+
+[GitHub](https://github.com/john-smilga/react-course-v3/tree/main/03-advanced-react)
+
 ## Support
 
 Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)

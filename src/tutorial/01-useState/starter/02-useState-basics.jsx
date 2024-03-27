@@ -10,7 +10,7 @@ const UseStateBasics = () => {
   const [count, setCount] = useState(0);
   //const [name, setName] = React.useState();
   const handleClick = () => {
-    //console.log(count);
+    // console.log(count);
     setCount(count + 1);
   };
 
@@ -19,7 +19,7 @@ const UseStateBasics = () => {
       <h2>useState basics</h2>
       <h4>You clicked {count} times</h4>
       <button type='button' className='btn' onClick={handleClick}>
-        click me
+        Click me
       </button>
     </div>
   );

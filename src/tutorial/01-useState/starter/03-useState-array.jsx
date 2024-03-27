@@ -8,10 +8,11 @@ const UseStateArray = () => {
     console.log(id);
     let newPeople = people.filter((person) => person.id !== id);
     setPeople(newPeople);
-  }
+  };
+
   const clearAllItems = () => {
     setPeople([]);
-  }
+  };
 
   return (
     <div>
